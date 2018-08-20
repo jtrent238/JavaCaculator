@@ -5,9 +5,9 @@ Calculator Made In Java!
 
 Java Caculator Compared To Caculator In Windows!
 
-#####Java Caculator
-![](http://puu.sh/oUwqi/6e0b36e579.jpg)
+##### Java Caculator
+![](https://puu.sh/BhzGF/dfab407e4d.png)
 
-#####Windows Caculator
-![](http://puu.sh/oUwvu/ee54f4888e.png)
+##### Windows Caculator
+![](https://puu.sh/BhzHm/5a52f7d4e0.png)
 
